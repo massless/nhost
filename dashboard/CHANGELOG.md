@@ -1,5 +1,11 @@
 # @nhost/dashboard
 
+## 0.4.2
+
+### Patch Changes
+
+- 89bd37bc: fix(dashboard): correct redirect URL input opacity
+
 ## 0.4.1
 
 ### Patch Changes

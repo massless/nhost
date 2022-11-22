@@ -1,5 +1,11 @@
 # @nhost/vue
 
+## 0.6.0
+
+### Minor Changes
+
+- f6d2042a: `useFileUpload` composable to upload a file useFileUpload composable
+
 ## 0.5.3
 
 ### Patch Changes
